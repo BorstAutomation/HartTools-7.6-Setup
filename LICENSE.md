@@ -2,4 +2,4 @@
 
 ## License
 
-A free 30 days trial license is available.
+A free fully functional 30 days trial license is available.

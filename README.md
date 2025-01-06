@@ -20,6 +20,6 @@ Kapitaen-Alexander-Strasse 39
 
 Fon: +49 4721 6985100
 
-Mail: Walter@Borst-Automation.de
+Mail: HartTools@Borst-Automation.de
 
 Home: www.Borst-Automation.de
