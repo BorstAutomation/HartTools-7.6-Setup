@@ -10,6 +10,8 @@ Release Notes: https://www.borst-automation.de/downloads/harttools-7-6-release-n
 
 Users Manual: https://www.borst-automation.com/documentation/BaHartTools-7.6.pdf
 
+Installation: [https://www.borst-automation.com/downloads/Install HartTools 7.6.msi](https://www.borst-automation.com/downloads/Install HartTools 7.6.msi) 
+
 ## Contact
 
 **Walter Borst**
