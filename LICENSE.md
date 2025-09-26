@@ -2,4 +2,4 @@
 
 ## License
 
-A free fully functional 30 days trial license is available.
+Please refer to the newly introduced pdf which is containing a free user license certificate.
