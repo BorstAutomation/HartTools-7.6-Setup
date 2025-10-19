@@ -6,11 +6,11 @@ This repository contains the installation of the Windows software. HartTools mai
 
 The DLL can be used very well to automate various processes in which Hart devices are involved. The package also contains a number of examples of how to use the DLL.
 
-Release Notes: https://www.borst-automation.de/downloads/harttools-7-6-release-notes/
+Release Notes: https://walter-borst.de/documents/harttools-7.6-release-notes.html
 
-Users Manual: https://www.borst-automation.com/documentation/BaHartTools-7.6.pdf
+Users Manual: https://walter-borst.de/documents/BaHartTools-7.6.pdf
 
-Installation: [https://www.borst-automation.com/downloads/Install-HartTools-7.6.msi](https://www.borst-automation.com/downloads/Install-HartTools-7.6.msi)
+Installation: https://walter-borst.de/data/Install%20HartTools%207.6.msi
 
 ## Contact
 
@@ -22,6 +22,6 @@ Kapitaen-Alexander-Strasse 39
 
 Fon: +49 4721 6985100
 
-Mail: HartTools@Borst-Automation.de
+Mail: Hart@walter-borst.de
 
-Home: www.Borst-Automation.de
+Home: https://walter-borst.de/hart-protocol-software.html
