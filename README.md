@@ -1,10 +1,10 @@
-# HartTools-7.6-Setup
+# Free Hart Communication Analyzer Setup
 
 ## Overview
 
 This repository contains the installation of the Windows software. HartTools mainly consists of a Hart communication DLL and a powerful analyzer of the Hart protocol.
 
-The DLL can be used very well to automate various processes in which Hart devices are involved. The package also contains a number of examples of how to use the DLL.
+The DLL can be used very well to automate various processes in which Hart devices are involved. The package also contains a number of examples of how to use the DLL. The DLL is also a perfect solution for realizing automated white box tests.
 
 Release Notes: https://walter-borst.de/02-hart/harttools-7.6-release-notes.html
 
