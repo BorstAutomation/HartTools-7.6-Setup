@@ -23,5 +23,3 @@ Kapitaen-Alexander-Strasse 39
 Fon: +49 4721 6985100
 
 Mail: Hart@walter-borst.de
-
-Home: https://walter-borst.de/02-hart/hart-protocol-software.html
