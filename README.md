@@ -10,6 +10,8 @@ Release Notes: https://walter-borst.de/02-hart/harttools-7.6-release-notes.html
 
 Users Manual: https://walter-borst.de/documents/BaHartTools-7.6.pdf
 
+Free User License: https://walter-borst.de/documents/HartTools-7.6-UnlimitedUserLicense.pdf
+
 Installation: https://walter-borst.de/data/Install%20HartTools%207.6.msi
 
 ## Contact
